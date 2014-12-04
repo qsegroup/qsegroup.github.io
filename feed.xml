@@ -4,10 +4,10 @@
     <title>QSEGroup</title>
     <description>A collaboration
 </description>
-    <link>http://yourdomain.comqsegroup.dev/</link>
-    <atom:link href="http://yourdomain.comqsegroup.dev/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 03 Dec 2014 14:57:41 -0800</pubDate>
-    <lastBuildDate>Wed, 03 Dec 2014 14:57:41 -0800</lastBuildDate>
+    <link>http://qsegroup.bitbucket.org//</link>
+    <atom:link href="http://qsegroup.bitbucket.org//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 03 Dec 2014 18:02:29 -0800</pubDate>
+    <lastBuildDate>Wed, 03 Dec 2014 18:02:29 -0800</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Fri, 14 Nov 2014 05:25:27 -0800</pubDate>
-        <link>http://yourdomain.comqsegroup.dev/jekyll/update/2014/11/14/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.comqsegroup.dev/jekyll/update/2014/11/14/welcome-to-jekyll.html</guid>
+        <link>http://qsegroup.bitbucket.org//jekyll/update/2014/11/14/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://qsegroup.bitbucket.org//jekyll/update/2014/11/14/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
