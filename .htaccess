@@ -1,0 +1,8 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^(www.)?_site.dev$ [NC]
+RewriteCond %{REQUEST_URI} !^/_site/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /_site/$1/
+RewriteCond %{HTTP_HOST} ^(www.)?_site.dev$ [NC]
+RewriteRule ^(/)?$ _site/index.html [L]
